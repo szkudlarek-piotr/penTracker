@@ -1,1 +1,2 @@
 I created this repository to help my friend in following a website which sells fountain pens.
+This script sends him email every time a new pen shows up on a website. It also ignores pens that were already sold.
